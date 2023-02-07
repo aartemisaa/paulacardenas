@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+.fondoazul {
+    background-color: lightblue;
+    height: 4rem;
+}
+
+.fondoamarillo {
+    background-color: lemonchiffon;
+    height: 25rem;
+}
+
+.fondolila {
+    background-color: lavender;
+    height: 20rem;
+}
+.fondogris {
+    background-color: whitesmoke;
+    height: 20rem;
+}
+.fondorosita {
+    background-color: lavenderblush;
+    height: 20rem;
+}
+.fondoazulito {
+    background-color: lightblue;
+    height: 20rem;
+}
+.fondoamarilo {
+    background-color: lemonchiffon;
+    height: 20rem;
+}
+
+.fondolili {
+    background-color: lavender;
+    height: 4rem;
+}
